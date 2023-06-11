@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Michelle, a full-stack software engineer who loves JavaScript and Python. I am currently studying for my Computer Science degree while learning full stack web development at 100Devs.
 
 - 😄 Pronouns: She/her
-- - ⚡ Fun fact: I love making fun little projects 
+ - ⚡ Fun fact: I love making fun little projects 
 - 🌱 I’m currently learning JavaScript
 - 🤔 I’m looking for help with full-stack web development and technical writing
 - 📫 How to reach me: [Twitter](https://twitter.com/codebymitch) and [LinkedIn](https://www.linkedin.com/in/michelle-ndiangui/)
