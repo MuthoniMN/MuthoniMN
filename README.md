@@ -1,4 +1,6 @@
-### Hi there 👋 I'm Michelle, a full-stack software engineer who loves JavaScript and Python. I am currently studying for my Computer Science degree while learning full stack web development at 100Devs.
+### Hi there 👋 I'm Michelle, a full-stack software engineer 
+
+I love JavaScript and Python. I am currently studying for my Computer Science degree while learning full stack web development at 100Devs.
 
 - 😄 Pronouns: She/her
  - ⚡ Fun fact: I love making fun little projects 
