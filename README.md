@@ -9,6 +9,8 @@ I love JavaScript and Python. I am currently studying for my Computer Science de
 - 📫 How to reach me: [Twitter](https://twitter.com/codebymitch) and [LinkedIn](https://www.linkedin.com/in/michelle-ndiangui/)
 
 I'm open to networking so feel free to reach out to me
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MuthoniMN)](https://git.io/streak-stats)
 <!--
 **MuthoniMN/MuthoniMN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
